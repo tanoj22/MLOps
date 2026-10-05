@@ -1,3 +1,4 @@
+# Lab 1: basic calculator functions
 def fun1(x, y):
     """
     Adds two numbers together.
