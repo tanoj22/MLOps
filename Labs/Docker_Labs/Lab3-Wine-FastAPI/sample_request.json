@@ -1,0 +1,7 @@
+{
+  "instances": [
+    {"alcohol": 13.2, "malic_acid": 1.78, "ash": 2.14, "alcalinity_of_ash": 11.2, "magnesium": 100, "total_phenols": 2.65, "flavanoids": 2.76, "nonflavanoid_phenols": 0.26, "proanthocyanins": 1.28, "color_intensity": 4.38, "hue": 1.05, "od280_od315_of_diluted_wines": 3.4, "proline": 1050},
+    {"alcohol": 12.37, "malic_acid": 0.94, "ash": 1.36, "alcalinity_of_ash": 10.6, "magnesium": 88, "total_phenols": 1.98, "flavanoids": 0.57, "nonflavanoid_phenols": 0.28, "proanthocyanins": 0.42, "color_intensity": 1.95, "hue": 1.05, "od280_od315_of_diluted_wines": 1.82, "proline": 520},
+    {"alcohol": 12.86, "malic_acid": 1.35, "ash": 2.32, "alcalinity_of_ash": 18, "magnesium": 122, "total_phenols": 1.51, "flavanoids": 1.25, "nonflavanoid_phenols": 0.21, "proanthocyanins": 0.94, "color_intensity": 4.1, "hue": 0.76, "od280_od315_of_diluted_wines": 1.29, "proline": 630}
+  ]
+}
